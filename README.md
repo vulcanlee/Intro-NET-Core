@@ -2,9 +2,8 @@
 
 |專案名稱|專案說明|備註|
 |-|-|-|
-|NETCore000|範例體驗 ||
 |NETCore000|練習情境 ||
-|NETCore001|||
+|NETCore001|範例體驗 .NET 移植能力分析器 練習專案原始碼||
 |NETCore002|||
 |NETCore003|||
 |NETCore004|||
