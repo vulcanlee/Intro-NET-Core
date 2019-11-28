@@ -4,7 +4,7 @@
 |-|-|-|
 |NETCore000|練習情境 ||
 |NETCore001|範例體驗 .NET 移植能力分析器 練習專案原始碼||
-|NETCore002|||
+|NETCore002|範例體驗 .NET API 分析器 Analyzer||
 |NETCore003|||
 |NETCore004|||
 |NETCore005|||
